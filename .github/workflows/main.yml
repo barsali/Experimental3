@@ -336,6 +336,7 @@ jobs:
           cat ./JsonTestReport.json
           cat JsonTestReport.json
 #          `cat JsonTestReport.json`
+#Aggiunto
       - name: Operazioni Firebase Db
         uses: w9jds/firebase-action@master
         with:
